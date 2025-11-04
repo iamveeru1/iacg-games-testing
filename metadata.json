@@ -1,0 +1,5 @@
+{
+  "name": "CogniFlex Brain Trainer",
+  "description": "An application similar to Lumosity, offering a suite of cognitive games to challenge and train your memory, attention, and language skills, powered by React and Google Gemini.",
+  "requestFramePermissions": []
+}
