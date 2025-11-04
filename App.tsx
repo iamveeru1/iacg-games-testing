@@ -25,7 +25,7 @@ const LoginScreen: React.FC<LoginScreenProps> = ({ onLoginSuccess, onNavigateToS
     setError('');
     setTimeout(() => {
       setIsLoading(false);
-      if (email.toLowerCase() === 'admin@gmail.com' && password === 'admin@123') {
+      if (email.toLowerCase() === 'veeru@gmail.com' && password === 'veeru@123') {
         onLoginSuccess();
       } else {
         setError('Invalid email or password.');
